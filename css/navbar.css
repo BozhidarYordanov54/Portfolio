@@ -12,9 +12,10 @@
     align-items: center;
 }
 
-.site-header .logo
+.site-header a 
 {
     color: #fff;
+    text-decoration: none;
 }
 
 .navbar ul
